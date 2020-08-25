@@ -19,7 +19,7 @@ Modern OpenGL kullanarak ekrana kırmızı üçgen yazdırma.
 
 #Kaynak Kodun Çıktısı
 
-![Output](master/output.PNG)
+![](https://github.com/cagin2245/OpenGL_Fundamentals/blob/master/output.PNG)
 
 
 #Proje Visual Studio 2019 Kullanılarak derlenmiştir
