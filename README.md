@@ -16,7 +16,7 @@ Modern OpenGL kullanarak ekrana kırmızı üçgen yazdırma.
 
 Lib Dosyalarını ekleme
 
-Bu adım için, kullandığınız Visual Studio sürümüne bağlı olan binary'i koyalamanız gerekli. Örnek olarak, eğer Visual Studio 2012 kullanıyorsanız, VS2012 binary adresini kopyalamanız gerekiyor (GLFW 3.3.2 için lib-vc2019 dosyası).
+Bu adım için, kullandığınız Visual Studio sürümüne bağlı olan binary'i kopyalamanız gerekli. Örnek olarak, eğer Visual Studio 2012 kullanıyorsanız, VS2012 binary adresini kopyalamanız gerekiyor (GLFW 3.3.2 için lib-vc2019 dosyası).
 
     Doğru adresi kopyaladığınızdan emin olun (VS 2019 ve GLFW-32 bit kullanıyorum) it is …\dependencies\glfw-3.3.2.bin.WIN32\lib-vc2019)
     Visual Studio'da açtığınız projeye gidin
